@@ -20,7 +20,7 @@ It would be interesting to know about...
 ## Dataset used 
 netflix_tiles.csv
 
-The dataset for the project acn be found [here](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data)
+The dataset for the project can be found [here](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data)
 
 ## Tableau Analysis 
 
